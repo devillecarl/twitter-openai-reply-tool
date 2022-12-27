@@ -1,0 +1,13 @@
+# Ignore virtual environments
+env/
+
+# Ignore configuration files
+config.py
+config.json
+config.ini
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore log files
+*.log
